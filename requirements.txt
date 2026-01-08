@@ -1,0 +1,9 @@
+tensorflow>=2.0.0
+keras
+numpy
+pandas
+seaborn
+matplotlib
+opencv-python
+scikit-learn
+pathlib
